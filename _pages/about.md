@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm Masa, an undergraduate student at the University of Washington studying Computer Science and Mathematics. 
 
-At UW, I have been fortunate enough to be mentored by Professor Vitaly Ablavsky at [UWAPL](https://www.apl.uw.edu/) and by Professor Jeffrey Lipton at the [Transformative Robotics Lab](http://www.transformativeroboticslab.com/). My research experience has ranged from multi-object tracking to computational fabrication. In the future, I am mostly excited to research the intersections of munfacturing and AI, as well as Computer Vision. In the past, I have also interned at the [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) as a Software Engineer. 
+At UW, I have been fortunate enough to be mentored by Professor Vitaly Ablavsky at [UWAPL](https://www.apl.uw.edu/) and Professor Jeffrey Lipton at the [Transformative Robotics Lab](http://www.transformativeroboticslab.com/). My research experience has ranged from multi-object tracking to computational fabrication. My current research interests lie in the intersections of manufacturing and AI, as well as in Computer Vision. In the past, I have also interned at the [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) as a Software Engineer. 
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
