@@ -25,9 +25,9 @@ artificial intelligence, one of the biggest threats would be the presence of adv
 users can always rely on AI systems. The study of counter-AI, also known as adversarial AI, deals with the
 methodologies used by adversaries to degrade or manipulate AI systems. Given an understanding of different
 attacks, our main objective is to build an AI model that is unaffected by these attacks. In particular, my study was motivated by the following questions:
-    * Can AI be subverted/co-opted to perform sub-optimally or change its goal (from the goal it was sup-
+* Can AI be subverted/co-opted to perform sub-optimally or change its goal (from the goal it was sup-
     posed to achieve)?
-    * How can we defend AI systems against being subverted or co-opted?
+* How can we defend AI systems against being subverted or co-opted?
 In this paper, I cover a detailed explanation of counter-AI to the extent to which I have explored and a
 discussion about how this study has impacted my perspectives on AI.
 
