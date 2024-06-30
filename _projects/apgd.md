@@ -4,7 +4,7 @@ title: point clouds
 description: Improving corruption robustness for point cloud classifiers. Final project for CSE 493G1 Deep Learning.
 img: assets/img/perturbed_chairs.png
 importance: 1
-category: work
+category: research
 related_publications: false
 ---
 
@@ -20,5 +20,5 @@ Point cloud data is used widely to represent 3D objects in systems such as drive
 
 The bulk of the technical work involved implementing adversarial training for point cloud classifiers by leveraging the [AutoAttack](https://arxiv.org/abs/2003.01690) framework which first introduced APGD as an evasaion attack. I first modified AutoAttack's APGD [code](https://github.com/fra31/auto-attack) to handle point cloud data and then incorporated it into the training phase of point cloud classifiers. I did so by perturbing training data using APGD and further following adversarial training methodology introduced in [this paper](https://arxiv.org/abs/1706.06083) by Madry et al.
 
-## Full synthesis paper
+## Check out the paper here
 [Paper](https://masanakura.github.io/assets/pdf/cse493_report.pdf)

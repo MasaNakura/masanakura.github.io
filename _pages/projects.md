@@ -5,7 +5,7 @@ permalink: /projects/
 description: projects that are not aimed for publications - just for educational purposes :)
 nav: true
 nav_order: 3
-display_categories:
+display_categories: [research, apps]
 horizontal: false
 ---
 

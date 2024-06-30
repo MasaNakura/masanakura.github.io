@@ -4,7 +4,7 @@ title: Counter AI
 description: Study various aspects of adversarial/counter AI. Based on my directed study at UWAPL Fall 2023.
 img: assets/img/counter-ai.png
 importance: 1
-category: work
+category: research
 related_publications: false
 ---
 
