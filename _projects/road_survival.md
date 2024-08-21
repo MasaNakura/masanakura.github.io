@@ -1,7 +1,7 @@
 ---
 layout: page
 title: road survival
-description: An Android racing game. Supports single and multi player modes with an online leaderboard for the single player mode.  
+description: Just an old high school project. An android racing game.  
 img: assets/img/road_survival_multi.png
 importance: 2
 category: apps
